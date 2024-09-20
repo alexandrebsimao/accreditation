@@ -1,0 +1,15 @@
+events
+    title
+    description
+    date_time_start
+    date_time_end
+    state
+    created_by
+
+user_events
+    type: [organizer, participant, exposer, staff checkin]
+    ckeckin_at:
+    code:
+    user_id
+    event_id
+
