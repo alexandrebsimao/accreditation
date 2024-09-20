@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  checkin_at: 2024-09-20 14:12:25
+  code: MyString
+  user: one
+  event: one
+
+two:
+  type: 
+  checkin_at: 2024-09-20 14:12:25
+  code: MyString
+  user: two
+  event: two
